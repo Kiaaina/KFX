@@ -1,5 +1,6 @@
 [sharpen]
-sharpen=(8/((sharpen+1.8%)-100%))*100%;
+sharpen=(performance/((sharpen+1.8%)-100%))*100%;
+performance=10;
 return 1;
 
 [light]
@@ -46,5 +47,6 @@ v1=3;
 m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
-virtual=(40%-v2)+100%)/6;
+virtual=(40%-v2)+100%)/layers;
+layers=5;
 return 1;
