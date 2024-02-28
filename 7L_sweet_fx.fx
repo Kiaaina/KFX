@@ -1,4 +1,4 @@
-7[sharpen]
+[sharpen]
 sharpen=(performance/((sharpen+1.8%)-100%))*100%;
 performance=10;
 return 1;
