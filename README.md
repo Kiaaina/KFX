@@ -1,4 +1,4 @@
 # Sweeter_fx
-Performance_graphics_enhancer_audio
+Performance_graphics_audio_enhancer
 
-place in root folder as possible...
+Place in root folder as possible...
