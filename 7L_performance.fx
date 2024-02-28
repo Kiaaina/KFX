@@ -11,7 +11,7 @@ p0=340;
 p1=(p0+20%);
 p2=0.9;
 p3=7,
-p4=9;
+p4=9;//max_dangerous
 fxxl=p0,p1,p2,p3,p4;
 return 1;
 
