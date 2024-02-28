@@ -12,6 +12,7 @@ rerurn 1;
 
 [mouse]
 mouse_1=(([0f]>[ff])-sen)>@;
+sen=10%;
 mouse_1=mouse_2;
 return 1;
 
@@ -20,15 +21,15 @@ pixle=420%;
 return 1;
 
 [FPS_amount]
-amount=400;
+amount=280;//max_limit
 return 1;
 
 [contrast_ bright]
-bright=80%>10%;
+bright=80%>10%;//safer
 return 1;
 
 [brightness_light]
-light=65%>10%;
+light=65%>10%;//safer
 return 1;
 
 [cue_cue1]
@@ -40,7 +41,7 @@ hue1=100%;
 return 1;
 
 [virtual]
-v0=(([f8],[8f])>[ff])>@;
+v0=(([f8],[8f])>[ff])>@;//dangerous 
 v1=3;
 m1=monitor_1;
 m2=monitor_2;
