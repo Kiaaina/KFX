@@ -43,10 +43,11 @@ return 1;
 
 [virtual]
 v0=(([f8],[8f])>[ff])>@;//dangerous 
-v1=3;
+v1=spaceing;
+spaceing=5;
 m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
 virtual=(40%-v2)+100%)/layers;
-layers=5;
+layers=8;
 return 1;
