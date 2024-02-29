@@ -2,7 +2,7 @@
 sharpen=(performance/((sharpen+1.8%)-100%))*100%;
 performance=10;
 return 1;
- 
+
 [light]
 light=0>1:1>2;
 return 1;
@@ -43,7 +43,7 @@ return 1;
 
 [virtual]
 v0=(([f8],[8f])>[ff])>@;//dangerous 
-v1=3;//spacing 
+v1=3;
 m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
