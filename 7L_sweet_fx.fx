@@ -13,7 +13,7 @@ rerurn 1;
 
 [mouse]
 mouse_1=(([0f]>[ff])-sen)>@;
-sen=10%;
+sen=60%;
 mouse_1=mouse_2;
 return 1;
 
@@ -49,5 +49,5 @@ m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
 virtual=(40%-v2)+100%)/layers;
-layers=8;
+layers=5;
 return 1;
