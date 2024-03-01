@@ -1,3 +1,5 @@
+[fx]
+{
 [sharpen]
 sharpen=(performance/((sharpen+1.8%)-100%))*100%;
 performance=10;
@@ -44,10 +46,11 @@ return 1;
 [virtual]
 v0=(([f8],[8f])>[ff])>@;//dangerous 
 v1=spaceing;
-spaceing=5;
+spaceing=3;
 m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
 virtual=(40%-v2)+100%)/layers;
 layers=5;
 return 1;
+}

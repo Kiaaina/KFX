@@ -1,3 +1,5 @@
+[fx]
+{
 [download_upload_speed]
 speed=100%;
 return 1;
@@ -21,3 +23,4 @@ return 1;
 [zip7]
 zip7=([ff]×[0a])/175|./[ff];
 return 1;
+}
