@@ -15,7 +15,7 @@ rerurn 1;
 
 [mouse]
 mouse_1=(([0f]>[ff])-sen)>@;
-sen=60%;
+sen=30%;
 mouse_1=mouse_2;
 return 1;
 

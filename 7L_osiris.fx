@@ -28,6 +28,6 @@ max3=50%;
 return 1;
 
 [volume_max4>@]
-max4=200%;
+max4=100%;
 return 1;
 }
