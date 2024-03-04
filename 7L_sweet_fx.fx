@@ -2,7 +2,7 @@
 {
 [sharpen]
 sharpen=(performance/((sharpen+1.8%)-100%))*100%;
-performance=10;
+performance=3;
 return 1;
 
 [light]
