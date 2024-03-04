@@ -10,7 +10,7 @@ light=0>1:1>2;
 return 1;
 
 [matrix]
-matrix=float 4(255,235,245,240)>10%;
+matrix=float 4(255,235,245,255)>10%;
 rerurn 1;
 
 [DPI_pixle]
@@ -22,11 +22,11 @@ amount=280;//max_limit
 return 1;
 
 [contrast_ bright]
-bright=80%>10%;//safer
+bright=100%>10%;//safer
 return 1;
 
 [brightness_light]
-light=65%>10%;//safer
+light=90%>10%;//safer
 return 1;
 
 [cue_cue1]
