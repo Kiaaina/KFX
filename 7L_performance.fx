@@ -1,4 +1,4 @@
-[fx]
+[fx_./0xff]
 {
 [download_upload_speed]
 speed=100%;

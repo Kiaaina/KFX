@@ -1,4 +1,4 @@
-[fx_com.spotify.music]
+[fx_./0xff]
 {
 [bitrate_1]
 bitrate_1=1+(bitrate|sound);

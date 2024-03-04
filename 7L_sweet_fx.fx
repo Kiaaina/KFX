@@ -1,4 +1,4 @@
-[fx]
+[fx_./0xff]
 {
 [sharpen]
 sharpen=(performance/((sharpen+1.8%)-100%))*100%;
