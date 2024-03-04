@@ -13,12 +13,6 @@ return 1;
 matrix=float 4(255,235,245,240)>10%;
 rerurn 1;
 
-[mouse]
-mouse_1=(([0f]>[ff])-sen)>@;
-sen=30%;
-mouse_1=mouse_2;
-return 1;
-
 [DPI_pixle]
 pixle=420%;
 return 1;

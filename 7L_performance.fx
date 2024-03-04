@@ -29,6 +29,12 @@ p4=9.5;//dangerous
 sxxl=p0,p1,p2,p3,p4;
 return 0;
 
+[mouse]
+mouse_1=(([0f]>[ff])-sen)>@;
+sen=30%;
+mouse_1=mouse_2;
+return 1;
+
 [zip7]
 zip7=([ff]×[0a])/175|./[ff];
 return 1;
