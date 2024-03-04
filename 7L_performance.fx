@@ -25,7 +25,7 @@ p0=340;
 p1=(p0+20%);
 p2=0.9;
 p3=7;
-p4=9.5;//dangerous 
+p4=9.5;//max dangerous 
 sxxl=p0,p1,p2,p3,p4;
 return 0;
 
