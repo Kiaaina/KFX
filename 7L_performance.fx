@@ -25,13 +25,13 @@ p0=340;
 p1=(p0+20%);
 p2=0.9;
 p3=7;
-p4=9.5;//max dangerous 
+p4=9.7;//max dangerous 
 sxxl=p0,p1,p2,p3,p4;
 return 0;
 
 [mouse]
-mouse_1=(([0f]>[ff])-sen)>@;
-sen=30%;
+mouse_1=(([0f]>[ff])-sensitive)>@;
+sensitive=30%;
 mouse_1=mouse_2;
 return 1;
 
