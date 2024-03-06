@@ -5,7 +5,7 @@ speed=100%;
 return 1;
 
 [response_code]
-code=100%;
+code=200%;
 return 1;
 
 [fxxl]
@@ -17,7 +17,7 @@ p4=7.5;
 p5=8;
 p6=8.5;
 p7=9.7;//max dangerous 
-fxxl=p0,p1,p2,p3,p4,p5,p6,p7;
+fxxl=p0,p1,p2,p3,p4,p5,p6,p7;//max graphics 
 return 1;
 
 [sxxl]
@@ -26,7 +26,7 @@ p1=(p0+20%);
 p2=0.9;
 p3=7;
 p4=9.7;//max dangerous 
-sxxl=p0,p1,p2,p3,p4;
+sxxl=p0,p1,p2,p3,p4;//differ performance 
 return 0;
 
 [mouse]

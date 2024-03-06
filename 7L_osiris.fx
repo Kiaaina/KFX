@@ -21,10 +21,10 @@ quality_3=((1200/40)+treble);
 equal_3=(1>((tempo)*max3)>@;
 treble=50%;
 max3=7%;
-tempo=80%,100%,30%,30%,35%,40%,20%,10%
+tempo=(80%,100%,30%,30%,35%,40%,20%,10%)
 return 1;
 
 [volume_max4>@]
-max4=100%;
+max4=200%;
 return 1;
 }
