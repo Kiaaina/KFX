@@ -45,7 +45,7 @@ return 1;
 [virtual]
 v0=(([f8],[8f])>[ff])>@;//dangerous 
 v1=spaceing;
-spaceing=4;
+spaceing=3.5;
 m1=monitor_1;
 m2=monitor_2;
 v2=(m1:v1\(v1-v0)),((v1-v0)/v1:m2);
