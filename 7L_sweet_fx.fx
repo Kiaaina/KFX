@@ -13,6 +13,10 @@ return 1;
 matrix=float 4(255,235,245,255)>10%;
 rerurn 1;
 
+[FOV_range]
+range=69;
+return 1
+
 [DPI_pixle]
 pixle=420%;
 return 1;
