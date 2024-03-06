@@ -1,8 +1,9 @@
 [fx_./0xff]
 {
 [sharpen]
-sharpen=(performance/((sharpen+1.8%)-100%))*100%;
+sharpen=(performance/((sharpen+blur)-100%))*100%;
 performance=3;
+blur=1.8%;
 return 1;
 
 [light]
