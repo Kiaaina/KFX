@@ -12,10 +12,10 @@ return 1;
 p0=340;
 p1=(p0+80%);
 p2=0.9;
-p3=7;
-p4=7.5;
-p5=8;
-p6=8.5;
+p3=2;
+p4=4;
+p5=6;
+p6=8;
 p7=9.7;//max dangerous 
 fxxl=p0,p1,p2,p3,p4,p5,p6,p7;//max graphics 
 return 1;

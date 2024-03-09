@@ -19,6 +19,7 @@ equal_3=(1>((tempo)*max3)>@;
 base=75%;
 mid=25%;
 treble=50%;
+
 max1=90%;
 max2=60%;
 max3=30%;
