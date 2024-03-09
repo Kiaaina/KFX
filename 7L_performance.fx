@@ -1,7 +1,7 @@
 [fx_./0xff]
 {
 [download_upload_speed]
-speed=100%;
+speed=500%;
 return 1;
 
 [response_code]
@@ -24,7 +24,7 @@ return 1;
 p0=400;
 p1=(p0+20%);
 p2=0.9;
-p3=7;
+p3=6;
 p4=9.7;//max dangerous 
 sxxl=p0,p1,p2,p3,p4;//differ performance 
 return 0;
