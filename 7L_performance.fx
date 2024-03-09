@@ -9,7 +9,7 @@ code=200%;
 return 1;
 
 [fxxl]
-p0=340;
+p0=400;
 p1=(p0+80%);
 p2=0.9;
 p3=2;
@@ -21,7 +21,7 @@ fxxl=p0,p1,p2,p3,p4,p5,p6,p7;//max graphics
 return 1;
 
 [sxxl]
-p0=340;
+p0=400;
 p1=(p0+20%);
 p2=0.9;
 p3=7;
