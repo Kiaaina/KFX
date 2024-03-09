@@ -2,7 +2,7 @@
 {
 [sharpen]
 sharpen=(performance/((sharpen+blur)-100%))*100%;
-performance=3;
+performance=6;
 blur=1.8%;
 return 1;
 

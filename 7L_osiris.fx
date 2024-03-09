@@ -16,16 +16,16 @@ sound_3=([8F],[F8])|equal_3|quality_3;
 quality_3=((1200/40)+treble);
 equal_3=(1>((tempo)*max3)>@;
 
-base=100%;
+base=75%;
 mid=25%;
 treble=50%;
-max1=30%;
-max2=10%;
-max3=20%;
-tempo=(90%,100%,30%,40%,35%,40%,20%,10%)
+max1=90%;
+max2=60%;
+max3=30%;
+tempo=(60%,80%,30%,40%,30%,35%,40%,10%)
 return 1;
 
 [volume_max4>@]
-max4=400%;
+max4=300%;
 return 1;
 }
