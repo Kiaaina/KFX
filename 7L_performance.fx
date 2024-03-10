@@ -31,7 +31,7 @@ return 0;
 
 [mouse]
 mouse_1=(([0f]>[ff])-sensitive)>@;
-sensitive=30%;
+sensitive=40%;
 mouse_1=mouse_2;
 return 1;
 
