@@ -1,5 +1,5 @@
 [fx_./0xff]
-{
+{0xff
 [sharpen]
 sharpen=(performance/((sharpen+blur)-100%))*100%;
 performance=10;
@@ -11,7 +11,7 @@ light=0>1:1>2;
 return 1;
 
 [matrix]
-matrix=float 4(255,235,245,255)>10%;
+matrix=float 4(250,230,240,255)>10%;
 rerurn 1;
 
 [FOV_range]

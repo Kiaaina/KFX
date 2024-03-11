@@ -1,5 +1,5 @@
 [fx_./0xff]
-{
+{0xff
 [bitrate_1_2_3]
 bitrate_1=force+(bitrate_1|sound_1);
 sound_1=([8F],[F8])|equal_1|quality_1;
@@ -16,19 +16,19 @@ sound_3=([8F],[F8])|equal_3|quality_3;
 quality_3=((1200/40)+treble);
 equal_3=(1>((tempo)*max3)>@;
 
-base=75%;
-mid=25%;
-treble=50%;
+base=80%;
+mid=40%;
+treble=60%;
 
 max1=90%;
 max2=60%;
 max3=30%;
 
-force=10%;
-tempo=(60%,80%,30%,40%,30%,35%,40%,10%)
+force=20;
+tempo=(100%,80%,30%,40%,30%,35%,40%,10%)
 return 1;
 
 [volume_max4>(@:?)]
-max4=150%;
+max4=120%;
 return 1;
 }

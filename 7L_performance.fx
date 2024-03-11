@@ -1,5 +1,5 @@
 [fx_./0xff]
-{
+{0xff
 [download_upload_speed]
 speed=500%;
 return 1;
