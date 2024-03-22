@@ -7,3 +7,4 @@ sharpen=1;//visual
 vol=1;//max volume
 view=0;//FOV
 frames=1;//FPS
+bat=1;//battery
