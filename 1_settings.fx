@@ -1,4 +1,4 @@
-@include ./2sweet.ini
+@include ./2_sweet.ini
 //0=off : 1=on
 fx=1;//fxxl
 sx=0;//sxxl
