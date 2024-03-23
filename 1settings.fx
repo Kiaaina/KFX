@@ -9,3 +9,4 @@ sharpen=1;//visual
 view=0;//FOV
 frames=1;//FPS
 bat=1;//battery
+color=1;//matrix
