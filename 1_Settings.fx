@@ -1,6 +1,7 @@
 @include ./2_Audio.ini
 @include ./3_Graphics.ini
 @include ./4_Code.ini
+@include ./d3d9.dll
 //0=off : 1=on
 fx=1;//fxxl
 sx=0;//sxxl
