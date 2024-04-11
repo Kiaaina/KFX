@@ -1,0 +1,2 @@
+[nul=@]
+return 1
