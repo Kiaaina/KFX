@@ -1,2 +1,0 @@
-[nul=@]
-return 1
