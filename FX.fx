@@ -15,5 +15,5 @@ view=1;//FOV
 frames=1;//FPS
 color=1;//matrix
 satellite=1;//Wifi
-sound=0;//Alpine audio
+sound=1;//Alpine audio
 bat=0;//battery
