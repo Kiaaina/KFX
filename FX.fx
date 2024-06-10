@@ -3,7 +3,8 @@
 @include C:\KFX\4_Code.ini
 @include C:\KFX\DirectX12.dll
 //0=off : 1=on
-fx=1;//fxxl
+fx1=1;//fxxl1
+fx2=0;//fxxl2
 sm=0;//sxxl
 vr=1;//virtual
 sharp=1;//visual
